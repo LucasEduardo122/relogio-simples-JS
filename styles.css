@@ -1,0 +1,30 @@
+body {
+    background: #c3c3c3;
+}
+
+div.relogio {
+    background: #fff;
+    padding: 24px;
+    width: 500px;
+    height: 500px;
+    border-radius: 8px;
+    margin: auto;
+    margin-top: 28px;
+}
+
+h1.text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p.hora {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div#image img{
+    width: 498px;
+    height: 350px;
+}
