@@ -41,5 +41,5 @@ function fundo(hour) {
 
 
 function image(tempo) {
-    images.innerHTML = `<img src="assets/${tempo}.jpg"/>`
+    images.innerHTML = `<img src=${tempo}.jpg"/>`
 }
